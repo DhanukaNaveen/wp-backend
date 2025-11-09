@@ -1,4 +1,4 @@
-import Photo from "../models/Photo.js";
+import Photo from "../models/photo.js";
 
 // Create a new photo
 export async function createPhoto(req, res) {

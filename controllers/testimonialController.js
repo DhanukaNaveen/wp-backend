@@ -1,4 +1,4 @@
-import Testimonial from "../models/Testimonial.js";
+import Testimonial from "../models/testimonial.js";
 
 // Create a new testimonial (public)
 export async function createTestimonial(req, res) {
